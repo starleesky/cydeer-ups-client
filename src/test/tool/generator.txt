@@ -1,0 +1,2 @@
+java -jar /Users/zhangsong/work/xiazhou/skyfire-tool/src/test/tool/mybatis-generator-core-1.3.2.jar -configfile /Users/zhangsong/work/xiazhou/skyfire-tool/src/test/tool/generator.xml -overwrite -verbose
+
